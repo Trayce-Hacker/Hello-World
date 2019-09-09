@@ -1,5 +1,5 @@
 **Name**: Trayce Hacker
 
-**Assignment Name** Assignment 1A: Create Glitch Account and Page
+**Assignment Name** Assignment 2A: GitHub
 
-**Date** September 2, 2019
+**Date** September 9, 2019
